@@ -1,0 +1,12 @@
+sample_input/
+sample_output/
+private_state/
+input/
+cleaned-corpus/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+build/
+dist/
